@@ -11,7 +11,7 @@ html {
 }
 
 body {
-	font-family: 'Malgun Gothic';
+	font-family: 'Arial';
 	font-size: 14px;
 }
 
@@ -103,7 +103,7 @@ a {
 	margin: 0 auto;
 	display: block;
 	height: 35px;
-	font-family: 'Malgun Gothic'; font-size: 13px;
+	font-family: 'Arial'; font-size: 13px;
 	padding-left: 14px;
 	transition: .2s;
 }
@@ -118,7 +118,7 @@ a {
 	margin: 0 auto;
 	display: block;
 	height: 35px;
-	font-family: 'Malgun Gothic'; font-size: 13px;
+	font-family: 'Arial'; font-size: 13px;
 	padding-left: 14px;
 	transition: .2s;
 }
@@ -134,7 +134,7 @@ a {
 	margin: 0 auto;
 	display: block;
 	height: 35px;
-	font-family: 'Malgun Gothic'; font-size: 13px;
+	font-family: 'Arial'; font-size: 13px;
 	padding-left: 14px;
 	transition: .2s;
 }
